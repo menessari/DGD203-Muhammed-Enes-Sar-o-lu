@@ -1,0 +1,7 @@
+C:\Users\enesk\source\repos\classAraba\classAraba\bin\Debug\classAraba.exe.config
+C:\Users\enesk\source\repos\classAraba\classAraba\bin\Debug\classAraba.exe
+C:\Users\enesk\source\repos\classAraba\classAraba\bin\Debug\classAraba.pdb
+C:\Users\enesk\source\repos\classAraba\classAraba\obj\Debug\classAraba.csproj.AssemblyReference.cache
+C:\Users\enesk\source\repos\classAraba\classAraba\obj\Debug\classAraba.csproj.CoreCompileInputs.cache
+C:\Users\enesk\source\repos\classAraba\classAraba\obj\Debug\classAraba.exe
+C:\Users\enesk\source\repos\classAraba\classAraba\obj\Debug\classAraba.pdb
