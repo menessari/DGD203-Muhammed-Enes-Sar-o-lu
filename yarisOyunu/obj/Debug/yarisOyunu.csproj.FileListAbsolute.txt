@@ -1,0 +1,7 @@
+C:\Users\enesk\source\repos\yarisOyunu\yarisOyunu\obj\Debug\yarisOyunu.csproj.AssemblyReference.cache
+C:\Users\enesk\source\repos\yarisOyunu\yarisOyunu\obj\Debug\yarisOyunu.csproj.CoreCompileInputs.cache
+C:\Users\enesk\source\repos\yarisOyunu\yarisOyunu\bin\Debug\yarisOyunu.exe.config
+C:\Users\enesk\source\repos\yarisOyunu\yarisOyunu\bin\Debug\yarisOyunu.exe
+C:\Users\enesk\source\repos\yarisOyunu\yarisOyunu\bin\Debug\yarisOyunu.pdb
+C:\Users\enesk\source\repos\yarisOyunu\yarisOyunu\obj\Debug\yarisOyunu.exe
+C:\Users\enesk\source\repos\yarisOyunu\yarisOyunu\obj\Debug\yarisOyunu.pdb
